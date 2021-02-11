@@ -1,0 +1,13 @@
+
+class AIConvo {
+
+public static botConvo() {
+    if(userInput == "Hi") {
+    return "Hello, this is Chota Bheem. I am a bot created by Aditya Raul";
+    ) if else (userInput == "What's up") {
+    return "Nothing much, what about you";
+    } if else (userInput == "bye") {
+    return "Bye, see you soon.";
+    }
+  }
+}
