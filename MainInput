@@ -8,6 +8,9 @@ public class MainClass {
   boolean convo = true;
   while(convo) {
   String userInput = sc.nextLine();
-  obj.
+  System.out.println(obj.botConvo());
+  if(userInput == "bye") {
+    System.out.println(obj.botConvo());
+    convo = false;
   }
 }
