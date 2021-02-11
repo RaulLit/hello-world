@@ -1,0 +1,13 @@
+import java.util.*;
+import AIConvo;
+
+public class MainClass {
+  public static void main(String [] args) {
+  Scanner sc = new Scanner(System.in);
+  AIConvo obj = new AIConvo();
+  boolean convo = true;
+  while(convo) {
+  String userInput = sc.nextLine();
+  obj.
+  }
+}
